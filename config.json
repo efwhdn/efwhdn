@@ -54,8 +54,8 @@
     },
 
     {
-      "name": "Link",
-      "url": "efwhdn.gt.tc",
+      "name": "e",
+      "url": "https://efwhdn.gt.tc",
       "icon": "images/link.webp"
     }
 
@@ -67,7 +67,7 @@
     "favicon": "images/ppp.png",
     "background": {
       "type": "video",
-      "video": "videos/zuki.mp4",
+      "video": "videos/chw1.mp4",
       "image": "images/background.jpg"
     },
     "bannerImage": "",
@@ -90,3 +90,4 @@
   }
 
 }
+
