@@ -49,13 +49,13 @@
 
     {
       "name": "Discord",
-      "url": "https://discord.gg/uhFQRVuzay",
+      "url": "https://discord.gg/user/815230273381597235",
       "icon": "images/dc.png"
     },
 
     {
       "name": "Link",
-      "url": "https://linktr.ee/efwhdn",
+      "url": "efwhdn.gt.tc",
       "icon": "images/link.webp"
     }
 
@@ -88,4 +88,5 @@
     },
     "layout": "vertical"
   }
+
 }
