@@ -423,10 +423,14 @@
     <audio id="audio-player" preload="auto"></audio>
 
     <script>
-        const myVideoList = [
-            "videos/chw.mp4", 
+        // --- BURAYA VİDEO İSİMLERİNİ YAZ ---
+        // Video dosyalarının bu HTML dosyasıyla aynı klasörde olduğundan emin ol.
+        // DİKKAT: Değişken ismini 'myVideoList' olarak bıraktım, kodun çalışması için bu isim gerekli.
+        const myVideoList = [ 
             "videos/chw1.mp4", 
-            "videos/chw2.mp4"
+            "videos/toji.mp4",
+            "videos/chwBEST.mp4",
+            "videos/bombdevil.mp4"
         ];
         // ------------------------------------
 
@@ -881,7 +885,7 @@
                 if (musicPlayerContainer) musicPlayerContainer.style.display = 'none';
             }
             
-            document.body.appendChild(Object.assign(document.createElement('div'),{id:'efwhdn',textContent:'𝖒𝖆𝖉𝖊 𝖇𝖞 𝖊𝖋𝖜𝖍𝖉𝖓',style:'position:fixed;left:1300px;bottom:16px;color:#fff;opacity:0.1;font-weight:bold;font-size:16px;padding:6px 16px;border-radius:8px;z-index:99999;user-select:none;pointer-events:none;letter-spacing:0.5px;'}));
+            document.body.appendChild(Object.assign(document.createElement('div'),{id:'efwhdn',textContent:'𝖒𝖆𝖉𝖊 𝖇𝖞 𝖊𝖋𝖜𝖍𝖉𝖓',style:'position:fixed;left:1700px;bottom:16px;color:#fff;opacity:0.1;font-weight:bold;font-size:16px;padding:6px 16px;border-radius:8px;z-index:99999;user-select:none;pointer-events:none;letter-spacing:0.5px;'}));
         });
 
         // Video Volume Mute Toggle Logic
@@ -906,4 +910,3 @@
     </script>
 </body>
 </html>
-
