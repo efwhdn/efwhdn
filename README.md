@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Emir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS;Building+real-world+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS+%2F+JS;Multi-field+developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header&text=&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF" alt="Profile views" />
+  <a href="https://github.com/efwhdn">
+    <img src="https://komarev.com/ghpvc/?username=efwhdn&style=flat-square&color=58A6FF" alt="Profile views" />
   </a>
 </p>
 
@@ -25,7 +21,7 @@ I like building practical things, learning by doing, and turning ideas into work
 - 🧠 AI projects with Python
 - 🎮 Game development and logic design
 - 🎨 Figma for UI/UX design
-- 🚀 Always building and improving real projects
+- 🚀 I try to improve myself and experience every field.
 
 ---
 
@@ -44,24 +40,24 @@ I like building practical things, learning by doing, and turning ideas into work
     <td>
       <strong>Project 1</strong><br/>
       Short description of your best web project.<br/>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">View Repository</a>
+      <a href="https://github.com/efwhdn/1">View Repository</a>
     </td>
     <td>
       <strong>Project 2</strong><br/>
       Short description of your AI project in Python.<br/>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">View Repository</a>
+      <a href="https://github.com/efwhdn/2">View Repository</a>
     </td>
   </tr>
   <tr>
     <td>
       <strong>Project 3</strong><br/>
       Short description of your game project.<br/>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">View Repository</a>
+      <a href="https://github.com/efwhdn/3">View Repository</a>
     </td>
     <td>
       <strong>Project 4</strong><br/>
       Short description of another useful project.<br/>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">View Repository</a>
+      <a href="https://github.com/efwhdn/4">View Repository</a>
     </td>
   </tr>
 </table>
@@ -71,8 +67,8 @@ I like building practical things, learning by doing, and turning ideas into work
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=efwhdn&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efwhdn&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -80,7 +76,7 @@ I like building practical things, learning by doing, and turning ideas into work
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efwhdn&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -97,8 +93,8 @@ I like building practical things, learning by doing, and turning ideas into work
 ## Contact
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">Instagram</a> •
-  <a href="https://discord.com/users/YOUR_DISCORD">Discord</a>
+  <a href="mailto:emirxefe0812@gmail.com">Email</a> •
+  <a href="https://github.com/efwhdn">GitHub</a> •
+  <a href="https://www.instagram.com/efwhdn">Instagram</a> •
+  <a href="https://discord.com/users/815230273381597235">Discord</a>
 </p>
