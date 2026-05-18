@@ -67,8 +67,7 @@ I like building practical things, learning by doing, and turning ideas into work
 
 ---
 
-## Current Focus  
-<a href="https://emoji.gg/emoji/2053_Kaneki_Think_TRANSPARENT_Anime"><img src="https://cdn3.emoji.gg/emojis/2053_Kaneki_Think_TRANSPARENT_Anime.png" width="32px" height="32px" alt="Kaneki_Think_TRANSPARENT_Anime"></a>
+## Current Focus  <a href="https://emoji.gg/emoji/2053_Kaneki_Think_TRANSPARENT_Anime"><img src="https://cdn3.emoji.gg/emojis/2053_Kaneki_Think_TRANSPARENT_Anime.png" width="32px" height="28px" alt="Kaneki_Think_TRANSPARENT_Anime"></a>
 
 - Building stronger web projects
 - Improving AI skills with Python
