@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Emir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-augmented+web+developer;Game+developer;Python+%2F+JavaScript+%2F+HTML+CSS+JS;Building+real-world+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS;Building+real-world+projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header&text=&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -17,9 +21,10 @@
 I'm a 17-year-old developer focused on web development, game development, and AI projects.  
 I like building practical things, learning by doing, and turning ideas into working products.
 
-- 🌐 Web development with HTML, CSS, JavaScript
+- 🌐 Web development with HTML and CSS
 - 🧠 AI projects with Python
-- 🎮 Game development, including Roblox
+- 🎮 Game development and logic design
+- 🎨 Figma for UI/UX design
 - 🚀 Always building and improving real projects
 
 ---
@@ -27,7 +32,7 @@ I like building practical things, learning by doing, and turning ideas into work
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,figma,github,vscode" />
 </p>
 
 ---
@@ -74,14 +79,18 @@ I like building practical things, learning by doing, and turning ideas into work
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## Current Focus
 
 - Building stronger web projects
 - Improving AI skills with Python
-- Creating game systems and mechanics
-- Learning faster through real projects
+- Designing better interfaces in Figma
+- Creating cleaner game systems and mechanics
 
 ---
 
