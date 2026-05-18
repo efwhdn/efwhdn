@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Emir </h1>
+<h1 align="center">
+  Hi, I'm Emir 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS+%2F+JS;Multi-field+developer" alt="Typing SVG" />
