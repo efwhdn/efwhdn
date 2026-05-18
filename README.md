@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emir 👋</h1>
+<h1 align="center">Hi, I'm Emir </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS+%2F+JS;Multi-field+developer" alt="Typing SVG" />
@@ -85,8 +85,6 @@ I like building practical things, learning by doing, and turning ideas into work
 
 - Building stronger web projects
 - Improving AI skills with Python
-- Designing better interfaces in Figma
-- Creating cleaner game systems and mechanics
 
 ---
 
