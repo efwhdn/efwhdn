@@ -1,0 +1,91 @@
+{
+
+  
+
+  "colors": {
+    "nameColor": "rgb(255,255,255)",
+    "nameOpacity": 1,
+    "descriptionColor": "rgb(255,255,255)",
+    "descriptionOpacity": 0.8,
+    "profileCard": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur":1
+    },
+    "musicPlayer": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 15
+    }
+  },
+  "personal": {
+    "name": "𝔈",
+    "introText": "𝓪𝓻𝓮 𝔂𝓸𝓾 𝓻𝓮𝓪𝓭𝔂?",
+    "description": "'no bio yet'",
+    "location": "İstanbul",
+    "profileImage": "images/pp4.png"
+  },
+
+  "music": {
+    "enabled": false,
+    "title": "Golden Browm",
+    "url": "songs/song.mp3.",
+    "duration": 154,
+    "albumCover": "images/album_cover.jpeg"
+  },
+  "social": [
+    
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/user/a1ew1wcauch9mupzwf8bnr6it",
+      "icon": "images/sp.png"
+    },
+
+    {
+      "name": "İnstagram",
+      "url": "https://www.instagram.com/efwhdn",
+      "icon": "images/ig.png"
+    },
+
+    {
+      "name": "Discord",
+      "url": "https://discord.com/users/815230273381597235",
+      "icon": "images/dc.png"
+    },
+
+    {
+      "name": "Link",
+      "url": "https://linktr.ee/efwhdn",
+      "icon": "images/link.webp"
+    }
+
+
+  ],
+  "site": {
+    "title": "𝖊𝖋𝖜𝖍𝖉𝖓",
+    "titleTypewriter": "𝖊𝖋𝖜𝖍𝖉𝖓",
+    "favicon": "images/ppp.png",
+    "background": {
+      "type": "video",
+      "video": "videos/zuki.mp4",
+      "image": "images/background.jpg"
+    },
+    "bannerImage": "",
+
+     "profileDecoratioN": "images/decoration.png",
+
+    "effects": {
+      "snow": true,
+      "card3D": true,
+      "cursorFollower": false,
+      "stars": true,
+      "musicVisualizer": false,
+      "typewriter": true
+    },
+    "ui": {
+      "viewCount": 81,
+      "onlineStatus": false
+    },
+    "layout": "vertical"
+  }
+}
