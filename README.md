@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS+%2F+JS;Multi-field+developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/efwhdn">
     <img src="https://komarev.com/ghpvc/?username=efwhdn&style=flat-square&color=58A6FF" alt="Profile views" />
   </a>
