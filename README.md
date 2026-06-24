@@ -42,25 +42,13 @@ I like building practical things, learning by doing, and turning ideas into work
   <tr>
     <td>
       <strong>Guess The Elemet!</strong><br/>
-      Eğitici Web Kimya Oyunu.<br/>
+      Kimya elementlerini tahmin etmeye yönelik çok oyunculu bir web oyunudur.<br/>
       <a href="https://github.com/efwhdn/guesstheelement">View Repository</a>
     </td>
     <td>
       <strong>K.T.T 10689</strong><br/>
-      Kağıthane Teknoloji Takımı websitesi.<br/>
+      Kağıthane Teknoloji Takımı'nın resmi websitesidir.<br/>
       <a href="https://github.com/efwhdn/10689">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Project 3</strong><br/>
-      Short description of your game project.<br/>
-      <a href="https://github.com/efwhdn/3">View Repository</a>
-    </td>
-    <td>
-      <strong>Project 4</strong><br/>
-      Short description of another useful project.<br/>
-      <a href="https://github.com/efwhdn/4">View Repository</a>
     </td>
   </tr>
 </table>
