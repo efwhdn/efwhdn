@@ -46,9 +46,9 @@ I like building practical things, learning by doing, and turning ideas into work
       <a href="https://github.com/efwhdn/guesstheelement">View Repository</a>
     </td>
     <td>
-      <strong>Project 2</strong><br/>
-      Short description of your AI project in Python.<br/>
-      <a href="https://github.com/efwhdn/2">View Repository</a>
+      <strong>K.T.T 10689</strong><br/>
+      Kağıthane Teknoloji Takımı websitesi.<br/>
+      <a href="https://github.com/efwhdn/10689">View Repository</a>
     </td>
   </tr>
   <tr>
