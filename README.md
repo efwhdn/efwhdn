@@ -41,9 +41,9 @@ I like building practical things, learning by doing, and turning ideas into work
 <table>
   <tr>
     <td>
-      <strong>Project 1</strong><br/>
-      Short description of your best web project.<br/>
-      <a href="https://github.com/efwhdn/1">View Repository</a>
+      <strong>Guess The Elemet!</strong><br/>
+      Eğitici Web Kimya Oyunu.<br/>
+      <a href="https://github.com/efwhdn/guesstheelement">View Repository</a>
     </td>
     <td>
       <strong>Project 2</strong><br/>
