@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Efe 
   <a href="https://emoji.gg/emoji/747329-remm"><img src="https://cdn3.emoji.gg/emojis/747329-remm.gif" width="32px" height="32px" alt="remm"></a>
-</h1>
+</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-augmented+web+developer;Game+developer;Python+%2F+HTML+%2F+CSS+%2F+JS;Multi-field+developer" alt="Typing SVG" />
