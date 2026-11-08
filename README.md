@@ -96,29 +96,28 @@ My long-term goal is to become an AI Engineer and build intelligent products tha
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 Guess The Element!</h3>
+      <h3>Guess The Element!</h3>
       <p>A multiplayer web game where players test their knowledge of chemical elements.</p>
       <a href="https://github.com/efwhdn/guesstheelement">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 K.T.T 10689</h3>
+      <h3>K.T.T 10689</h3>
       <p>The official website project for Kağıthane Technology Team.</p>
       <a href="https://github.com/efwhdn/10689">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
       </a>
     </td>
+    <td width="50%" valign="top">
+      <h3>Atatürk AI</h3>
+      <p>...</p>
+      <a href="https://github.com/efwhdn/">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+      </a>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <b>🤖 E.F.E — Personal AI Assistant</b>
-  <br/>
-  A local-first AI assistant exploring voice interaction, desktop automation, application control and intelligent workflows.
-  <br/>
-  <img src="https://img.shields.io/badge/IN_DEVELOPMENT-30363D?style=for-the-badge" alt="In development"/>
-</p>
 
 ---
 
@@ -134,26 +133,6 @@ My long-term goal is to become an AI Engineer and build intelligent products tha
   - **Product Development:** Improving architecture, usability and the overall experience of the things I build.
 
 </details>
-
----
-
-## `05` — GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=efwhdn&show_icons=true&hide_border=true&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&rank_icon=github&include_all_commits=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=efwhdn&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=161b22&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</p>
 
 ---
 
