@@ -120,13 +120,5 @@ My long-term goal is to become an AI Engineer and build intelligent products tha
 
 <!-- ANIMATED FOOTER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:161B22,100:0D1117"
-    width="100%"
-    alt=""
-  />
-</p>
-
-<p align="center">
   <sub>Designed with curiosity · Built with code · Maintained by 𝔈</sub>
 </p>
