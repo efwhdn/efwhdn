@@ -98,13 +98,6 @@ My long-term goal is to become an AI Engineer and build intelligent products tha
         <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Atatürk AI</h3>
-      <p>...</p>
-      <a href="https://github.com/efwhdn/">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-      </a>
-    </td>
   </tr>
 </table>
 
