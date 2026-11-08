@@ -3,7 +3,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:161B22&text=%F0%9D%94%88&fontColor=E6EDF3&fontSize=82&fontAlignY=38&desc=Building%20ideas%20into%20real%20things&descAlignY=53&descSize=16&animation=fadeIn"
     width="100%"
-    alt="𝔈 —          Building ideas into real things"
+    alt="𝔈"
   />
 </p>
 
