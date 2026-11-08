@@ -1,3 +1,5 @@
+<p "𝔈" </p>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img
