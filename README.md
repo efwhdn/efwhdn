@@ -20,11 +20,11 @@
 I'm a 17-year-old developer focused on web development, game development, and AI projects.  
 I like building practical things, learning by doing, and turning ideas into working products.
 
---> Web development with HTML and CSS
---> AI projects with Python
---> Game development and logic design
---> Figma for UI/UX design
---> I try to improve myself and experience every field.
+- 🌐 Web development with HTML and CSS
+- 🧠 AI projects with Python
+- 🎮 Game development and logic design
+- 🎨 Figma for UI/UX design
+- 🚀 I try to improve myself and experience every field.
 
 ---
 
