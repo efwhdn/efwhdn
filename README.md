@@ -1,15 +1,13 @@
- <escape></escape>
 <!--
   EFE / efwhdn — GitHub Profile README
-  Replace or remove any section you don't want to display.
 -->
 
 <!-- ANIMATED HEADER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:161B22&text=Efe&fontColor=E6EDF3&fontSize=68&fontAlignY=38&desc=Building%20ideas%20into%20real%20things&descAlignY=58&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:161B22&text=%F0%9D%94%88&fontColor=E6EDF3&fontSize=82&fontAlignY=38&desc=Building%20ideas%20into%20real%20things&descAlignY=53&descSize=16&animation=fadeIn"
     width="100%"
-    alt="Efe — Building ideas into real things"
+    alt="𝔈 — Building ideas into real things"
   />
 </p>
 
@@ -46,34 +44,17 @@
 
 ## `01` — About Me
 
-```python
-class Efe:
-    def __init__(self):
-        self.role = "Student Developer"
-        self.goal = "AI Engineer"
-        self.interests = [
-            "Artificial Intelligence",
-            "Software Development",
-            "Web & Game Development",
-            "UI/UX Design"
-        ]
-        self.mindset = "Learn. Build. Experiment. Improve."
+I'm a student developer with a strong interest in artificial intelligence, software engineering, and digital product development.
 
-    def say_hi(self):
-        return "Turning curiosity into code."
-```
-
-I'm a student developer interested in the intersection of **artificial intelligence, software engineering, and product design**.
-
-I enjoy exploring different areas of technology, experimenting with new tools, and turning ideas into practical projects.
-
-I'm particularly interested in understanding how intelligent systems work — not just using AI, but learning how to build and improve it.
+I enjoy exploring different areas of technology, experimenting with new tools, and turning ideas into practical projects. I'm particularly interested in understanding how intelligent systems work — from large language models and AI agents to custom models and local AI applications.
 
 - 🧠 Exploring AI engineering, LLMs and model fine-tuning.
 - 🐍 Building projects and experimenting with Python.
 - 🌐 Creating web applications and interactive experiences.
 - 🎨 Designing clean, minimal interfaces with Figma.
-- 🎮 Interested in game development and software logic.
+- 🎮 Exploring game development and software logic.
+
+My long-term goal is to become an AI Engineer and build intelligent products that are genuinely useful.
 
 > Curious by nature. Builder by choice.
 
@@ -129,21 +110,15 @@ I'm particularly interested in understanding how intelligent systems work — no
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Adım</h3>
-      <p>A YKS exam tracking application for monitoring practice tests, net scores, weak topics and study progress.</p>
-      <a href="https://adim-yks-tracker.web.app">
-        <img src="https://img.shields.io/badge/OPEN_LIVE_APP-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Open Adım"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 E.F.E</h3>
-      <p>A local-first personal AI assistant, exploring desktop automation, voice interaction and intelligent workflows.</p>
-      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-30363D?style=for-the-badge" alt="In development"/>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <b>🤖 E.F.E — Personal AI Assistant</b>
+  <br/>
+  A local-first AI assistant exploring voice interaction, desktop automation, application control and intelligent workflows.
+  <br/>
+  <img src="https://img.shields.io/badge/IN_DEVELOPMENT-30363D?style=for-the-badge" alt="In development"/>
+</p>
 
 ---
 
@@ -154,7 +129,7 @@ I'm particularly interested in understanding how intelligent systems work — no
   <br/>
 
   - **AI Engineering:** Understanding LLMs, model fine-tuning and local AI systems.
-  - **Personal Intelligence:** An independent AI research project exploring custom models, structured memory and decision-making.
+  - **Personal Intelligence:** An independent research project exploring custom models, structured memory and decision-making.
   - **Web Development:** Building better applications with modern frontend tools.
   - **Product Development:** Improving architecture, usability and the overall experience of the things I build.
 
@@ -170,11 +145,6 @@ I'm particularly interested in understanding how intelligent systems work — no
     height="165"
     alt="GitHub statistics"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=efwhdn&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3"
-    height="165"
-    alt="GitHub streak"
-  />
 </p>
 
 <p align="center">
@@ -183,20 +153,6 @@ I'm particularly interested in understanding how intelligent systems work — no
     width="100%"
     alt="GitHub contribution activity"
   />
-</p>
-
----
-
-## `06` — Beyond the Code
-
-I believe the best way to learn technology is to experiment with it.
-
-I'm always curious about new ideas, unconventional solutions, and the possibilities of combining different fields.
-
-My long-term goal is to become an **AI Engineer** and build useful, intelligent products that solve real problems.
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
 </p>
 
 ---
@@ -211,5 +167,5 @@ My long-term goal is to become an **AI Engineer** and build useful, intelligent 
 </p>
 
 <p align="center">
-  <sub>Designed with curiosity · Built with code · Maintained by Efe</sub>
+  <sub>Designed with curiosity · Built with code · Maintained by 𝔈</sub>
 </p>
