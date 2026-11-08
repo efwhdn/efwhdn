@@ -37,11 +37,11 @@ I'm a student developer with a strong interest in artificial intelligence, softw
 
 I enjoy exploring different areas of technology, experimenting with new tools, and turning ideas into practical projects. I'm particularly interested in understanding how intelligent systems work — from large language models and AI agents to custom models and local AI applications.
 
-- 🧠 Exploring AI engineering, LLMs and model fine-tuning.
-- 🐍 Building projects and experimenting with Python.
-- 🌐 Creating web applications and interactive experiences.
-- 🎨 Designing clean, minimal interfaces with Figma.
-- 🎮 Exploring game development and software logic.
+-  Exploring AI engineering, LLMs and model fine-tuning.
+-  Building projects and experimenting with Python.
+-  Creating web applications and interactive experiences.
+-  Designing clean, minimal interfaces with Figma.
+-  Exploring game development and software logic.
 
 My long-term goal is to become an AI Engineer and build intelligent products that are genuinely useful.
 
