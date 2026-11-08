@@ -20,7 +20,7 @@
 I'm a 17-year-old developer focused on web development, game development, and AI projects.  
 I like building practical things, learning by doing, and turning ideas into working products.
 
-- 🌐 Web development with HTML and CSS
+- <a href="https://emoji.gg/emoji/386897-white-square"><img src="https://cdn3.emoji.gg/emojis/386897-white-square.png" width="64px" height="64px" alt="white_square"></a> Web development with HTML and CSS
 - 🧠 AI projects with Python
 - 🎮 Game development and logic design
 - 🎨 Figma for UI/UX design
